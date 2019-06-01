@@ -39,4 +39,7 @@ This application provides these worksheets.
     <br> 
     ![bloomberg](https://github.com/wukaihua119/ForexMarginCalculator/blob/master/pics/bloomberg.PNG)
     </br> 
-----
+---
+
+### Warning 
+##### This is only for the purpose of "research". 
