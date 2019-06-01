@@ -28,11 +28,15 @@ This application provides these worksheets.
     In this worksheet, you can get the real time quote with DQ2 api. It also provides the real time profit. 
     You can calculate and get the information of interest, margin. 
     </br> 
+    <br>
     ![calculate](https://github.com/wukaihua119/ForexMarginCalculator/blob/master/pics/calculate.PNG)
+    </br> 
 
 3. Bloomberg Calendar 
     <br>
     This worksheet provide the real time economic calendar with Bloomber API. 
     </br>
+    <br> 
     ![bloomberg](https://github.com/wukaihua119/ForexMarginCalculator/blob/master/pics/bloomberg.PNG)
+    </br> 
 ----
