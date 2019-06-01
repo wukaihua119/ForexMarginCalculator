@@ -8,5 +8,31 @@ This program is for whom use the forex margin trade developed by VBA on Excel.
 + The econ calendar with Bloomberg API 
 ---- 
 ### The application 
-1. The document of this application to let users know the regulations of the and teach users how to use. 
+This application provides these worksheets.
+<br>  
+![worksheets](https://github.com/wukaihua119/ForexMarginCalculator/pics/worksheets.PNG) 
+</br> 
+1. Documents 
+    <br>
+    The document of this application to let users know the regulations of the and teach users how to use. 
+    </br> 
+    <br> 
+    ![instructions](https://github.com/wukaihua119/ForexMarginCalculator/pics/instructions.PNG) 
+    </br> 
+    <br> 
+    ![instructions1](https://github.com/wukaihua119/ForexMarginCalculator/pics/instructions1.PNG) 
+    </br> 
 
+2. Calculation 
+    <br> 
+    In this worksheet, you can get the real time quote with DQ2 api. It also provides the real time profit. 
+    You can calculate and get the information of interest, margin. 
+    </br> 
+    ![calculate](https://github.com/wukaihua119/ForexMarginCalculator/pics/calculate.PNG) 
+
+3. Bloomberg Calendar 
+    <br>
+    This worksheet provide the real time economic calendar with Bloomber API. 
+    </br>
+    ![bloomberg](https://github.com/wukaihua119/ForexMarginCalculator/pics/bloomberg.PNG) 
+----
