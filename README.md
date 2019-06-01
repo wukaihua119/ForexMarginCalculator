@@ -11,7 +11,7 @@ This program is for whom use the forex margin trade developed by VBA on Excel.
 This application provides these worksheets.
 <br>  
 ![worksheets](https://github.com/wukaihua119/ForexMarginCalculator/blob/master/pics/worksheets.PNG)
-kkbr> 
+</br> 
 1. Documents 
     <br>
     The document of this application to let users know the regulations of the and teach users how to use. 
